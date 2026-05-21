@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>124416372203-a4hg2g9puem28eio5h8pt94n7r0qmb9o.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.124416372203-a4hg2g9puem28eio5h8pt94n7r0qmb9o</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>124416372203-n7aqjns69sjvc1e17tqc139u7ckogv8i.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDbOSKZd491NzMQ8NwTjSp2NJ23pA6B1bE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>124416372203</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.whatsapp</string>
+	<key>PROJECT_ID</key>
+	<string>zorixo-9e45f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>zorixo-9e45f.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:124416372203:ios:ccfe23cbeae523b2f97dae</string>
+</dict>
+</plist>

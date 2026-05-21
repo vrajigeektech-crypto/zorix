@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "124416372203",
+    "project_id": "zorixo-9e45f",
+    "storage_bucket": "zorixo-9e45f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124416372203:android:be79f2e5d71d27c7f97dae",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124416372203-n7aqjns69sjvc1e17tqc139u7ckogv8i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.whatsapp",
+            "certificate_hash": "a956e6be31af1331afc1773f00bd8b4bb1594a7d"
+          }
+        },
+        {
+          "client_id": "124416372203-pm6po2362f4l8er2dbaf3sfgqe5bk5n1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPN9E1bUpK2AjQK-ksZ0UXNvKB3hB5jqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124416372203-pm6po2362f4l8er2dbaf3sfgqe5bk5n1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "124416372203-a4hg2g9puem28eio5h8pt94n7r0qmb9o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.whatsapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
