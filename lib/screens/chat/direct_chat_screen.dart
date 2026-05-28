@@ -449,7 +449,7 @@ class DirectChatScreen extends StatelessWidget {
                   //   ),
                   // ),
                   // SizedBox(height: 24.h),
-                  _showAdBanner(controller),
+                  // _showAdBanner(controller),
                 ],
               ),
             ),

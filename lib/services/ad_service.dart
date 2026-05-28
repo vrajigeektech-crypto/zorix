@@ -10,8 +10,8 @@ class AdService {
   InterstitialAd? _interstitialAd;
   RewardedAd? _rewardedAd;
 
-  bool get isSupported =>
-      !kIsWeb && (Platform.isAndroid || Platform.isIOS);
+  bool get isSupported => false;
+      // !kIsWeb && (Platform.isAndroid || Platform.isIOS);
 
   /// BannerAd
   BannerAd? buildBannerAd() {

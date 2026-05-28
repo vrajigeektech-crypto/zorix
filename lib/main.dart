@@ -25,9 +25,9 @@ Future<void> main() async {
     options: DefaultFirebaseOptions.currentPlatform,
   );
 
-  if (!kIsWeb) {
-    await MobileAds.instance.initialize();
-  }
+  // if (!kIsWeb) {
+  //   await MobileAds.instance.initialize();
+  // }
   Get.put<StatusService>(StatusService(), permanent: true);
   Get.put<AuthService>(AuthService(), permanent: true);
   Get.put<UserProfileService>(UserProfileService(), permanent: true);

@@ -42,7 +42,7 @@ class HomeScreen extends StatelessWidget {
                   SizedBox(height: 24.h),
                   _buildStorageCard(controller),
                   SizedBox(height: 24.h),
-                  _showAdBanner(controller),
+                  // _showAdBanner(controller),
                 ],
               ),
             ),
