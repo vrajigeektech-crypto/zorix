@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:124416372203:android:be79f2e5d71d27c7f97dae",
         "android_client_info": {
-          "package_name": "com.example.whatsapp"
+          "package_name": "com.igeek.zorix"
         }
       },
       "oauth_client": [
@@ -17,7 +17,7 @@
           "client_id": "124416372203-n7aqjns69sjvc1e17tqc139u7ckogv8i.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.example.whatsapp",
+            "package_name": "com.igeek.zorix",
             "certificate_hash": "a956e6be31af1331afc1773f00bd8b4bb1594a7d"
           }
         },
@@ -42,7 +42,7 @@
               "client_id": "124416372203-a4hg2g9puem28eio5h8pt94n7r0qmb9o.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.example.whatsapp"
+                "bundle_id": "com.igeek.zorix"
               }
             }
           ]

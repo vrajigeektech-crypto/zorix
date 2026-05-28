@@ -383,22 +383,22 @@ class _EmptyState extends StatelessWidget {
             ),
             if (diagnostics.isNotEmpty) ...[
               SizedBox(height: 16.h),
-              ExpansionTile(
-                tilePadding: EdgeInsets.zero,
-                title: const Text('Debug details'),
-                children: diagnostics
-                    .map(
-                      (String line) => Padding(
-                        padding: EdgeInsets.only(bottom: 8.h),
-                        child: Text(
-                          line,
-                          style: Theme.of(context).textTheme.bodySmall,
-                          textAlign: TextAlign.left,
-                        ),
-                      ),
-                    )
-                    .toList(),
-              ),
+              // ExpansionTile(
+              //   tilePadding: EdgeInsets.zero,
+              //   title: const Text('Debug details'),
+              //   children: diagnostics
+              //       .map(
+              //         (String line) => Padding(
+              //           padding: EdgeInsets.only(bottom: 8.h),
+              //           child: Text(
+              //             line,
+              //             style: Theme.of(context).textTheme.bodySmall,
+              //             textAlign: TextAlign.left,
+              //           ),
+              //         ),
+              //       )
+              //       .toList(),
+              // ),
             ],
           ],
         ),

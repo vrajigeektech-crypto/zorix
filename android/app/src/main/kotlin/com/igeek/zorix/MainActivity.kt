@@ -1,4 +1,4 @@
-package com.example.whatsapp
+package com.igeek.zorix
 
 import io.flutter.embedding.android.FlutterActivity
 
